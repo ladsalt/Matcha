@@ -139,7 +139,3 @@ Matcha is a Python-based tool designed to streamline the management of Python pr
 ## Contributing
 
 Contributions are welcome! Please feel free to submit pull requests or open issues for bug reports or feature requests.
-
-## License
-
-This project is licensed under the MIT License.
